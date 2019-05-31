@@ -4,7 +4,7 @@ Rutas de la API
 
 | Route                                     | Method  |  Params  |  Return                   | Content-Type     |
 |:------------------------------------------|:-------:|:---------|:--------------------------|:-----------------|
-| /test/:rbd                                |  GET    | None     |                           | application/json |
+| /test/:test                               |  GET    | None     |                           | application/json |
 
 ## Instalacion
 La RESTful API fue creado con Slim Framework.
