@@ -2,10 +2,13 @@
 
 Rutas de la API
 
-| Route                                     | Method  |  Return                                |
-|:------------------------------------------|:-------:|----------------------------------------|
-| /test/                                    |  GET    | All data of 'table'                    |
-| /test/:id                                 |  GET    | All data of 'table' with id = :id      |
+| Route                                      | Method   |  Return                                |
+|:-------------------------------------------|:--------:|----------------------------------------|
+| /salas/                                    |  GET     | All data of 'salas'                    |
+| /salas/:id                                 |  GET     | All data of 'salas' with id = :id      |
+| /salas/:id                                 |  POST    | Add data of 'salas' with id = :id      |
+| /salas/:id                                 |  DELETE  | Delete data of 'salas' with id = :id   |
+| /salas/:id                                 |  PUT     | Update data of 'salas' with id = :id   |
 
 ## Instalacion
 La RESTful API fue creado con Slim Framework.

@@ -7,7 +7,7 @@ return [
         // Database settings
         'db' => [
             'host' => 'localhost',
-            'dbname' => 'colegio',
+            'dbname' => 'uct',
             'user' => 'root',
             'pass' => '',
         ],
@@ -25,9 +25,9 @@ return [
         ],
 
         // ------------------- QUERY SETTINGS --------------------
-        'test' => [
-            'table' => 'alumnos',
-            'id' => 'id',
+        'salas' => [
+            'table' => 'salas',
+            'id' => 'id_sala',
         ],
     ],
 ];
