@@ -29,5 +29,30 @@ return [
             'table' => 'salas',
             'id' => 'id_sala',
         ],
+
+        'edificios' => [
+            'table' => 'edificio',
+            'id' => 'id_edificio',
+        ],
+
+        'departamentos' => [
+            'table' => 'departamentos',
+            'id' => 'id_departamento',
+        ],
+
+        'facultades' => [
+            'table' => 'facultades',
+            'id' => 'id_facultad',
+        ],
+
+        'informaciones' => [
+            'table' => 'informaciones',
+            'id' => 'id_facultad',
+        ],
+
+        'oficinas' => [
+            'table' => 'oficinas',
+            'id' => 'id_oficina',
+        ]
     ],
 ];

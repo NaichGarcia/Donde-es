@@ -1,6 +1,9 @@
 <?php
 
 use Slim\App;
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Methods: PUT, GET, POST, DELETE");
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
 
 return function (App $app) {
     $container = $app->getContainer();
