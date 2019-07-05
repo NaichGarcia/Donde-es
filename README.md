@@ -6,37 +6,37 @@ Rutas de la API
 |:-------------------------------------------|:--------:|----------------------------------------------|
 | /salas/                                    |  GET     | All data of 'salas'                          |
 | /salas/:id                                 |  GET     | All data of 'salas' with id = :id            |
-| /salas/:id                                 |  POST    | Add data of 'salas' with id = :id            |
+| /salas/                                    |  POST    | Add data to 'salas' 		               |
 | /salas/:id                                 |  DELETE  | Delete data of 'salas' with id = :id         |
 | /salas/:id                                 |  PUT     | Update data of 'salas' with id = :id         |
 |:-------------------------------------------|:--------:|----------------------------------------------|
 | /oficinas/                                 |  GET     | All data of 'oficinas'                       |
 | /oficinas/:id                              |  GET     | All data of 'oficinas' with id = :id         |
-| /oficinas/:id                              |  POST    | Add data of 'oficinas' with id = :id         |
+| /oficinas/                                 |  POST    | Add data to 'oficinas'		       |
 | /oficinas/:id                              |  DELETE  | Delete data of 'oficinas' with id = :id      |
 | /oficinas/:id                              |  PUT     | Update data of 'oficinas' with id = :id      |
 |:-------------------------------------------|:--------:|----------------------------------------------|
 | /informaciones/                            |  GET     | All data of 'informaciones'                  |
 | /informaciones/:id                         |  GET     | All data of 'informaciones' with id = :id    |
-| /informaciones/:id                         |  POST    | Add data of 'informaciones' with id = :id    |
+| /informaciones/                            |  POST    | Add data to 'informaciones'		       |
 | /informaciones/:id                         |  DELETE  | Delete data of 'informaciones' with id = :id |
 | /informaciones/:id                         |  PUT     | Update data of 'informaciones' with id = :id |
 |:-------------------------------------------|:--------:|----------------------------------------------|
 | /facultades/                               |  GET     | All data of 'facultades'                     |
 | /facultades/:id                            |  GET     | All data of 'facultades' with id = :id       |
-| /facultades/:id                            |  POST    | Add data of 'facultades' with id = :id       |
+| /facultades/                               |  POST    | Add data to 'facultades' 	               |
 | /facultades/:id                            |  DELETE  | Delete data of 'facultades' with id = :id    |
 | /facultades/:id                            |  PUT     | Update data of 'facultades' with id = :id    |
 |:-------------------------------------------|:--------:|----------------------------------------------|
 | /edificio/                                 |  GET     | All data of 'edificio'                       |
 | /edificio/:id                              |  GET     | All data of 'edificio' with id = :id         |
-| /edificio/:id                              |  POST    | Add data of 'edificio' with id = :id         |
+| /edificio/                                 |  POST    | Add data to 'edificio' 	               |
 | /edificio/:id                              |  DELETE  | Delete data of 'edificio' with id = :id      |
 | /edificio/:id                              |  PUT     | Update data of 'edificio' with id = :id      |
 |:-------------------------------------------|:--------:|----------------------------------------------|
 | /departamentos/                            |  GET     | All data of 'departamentos'                  |
 | /departamentos/:id                         |  GET     | All data of 'departamentos' with id = :id    |
-| /departamentos/:id                         |  POST    | Add data of 'departamentos' with id = :id    |
+| /departamentos/                            |  POST    | Add data to 'departamentos'                  |
 | /departamentos/:id                         |  DELETE  | Delete data of 'departamentos' with id = :id |
 | /departamentos/:id                         |  PUT     | Update data of 'departamentos' with id = :id |
 |:-------------------------------------------|:--------:|----------------------------------------------|
